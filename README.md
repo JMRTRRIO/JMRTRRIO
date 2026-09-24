@@ -10,7 +10,7 @@ Recent Computer Science graduate with a strong foundation in machine learning, d
 
 ## Technical Skills
 - **Machine Learning/Deep Learning:** PyTorch, scikit-learn, XLM-RoBERTa
-- **Data/Backend:** SQL, Postman, PostgreSQL, pgAdmin, Docker, Kestra, Terraform
+- **Data/Backend:** SQL, Postman, PostgreSQL, pgAdmin, Docker, Terraform
 - **Frontend:** ReactJS, Tailwind
 - **Programming:** Python, Java
 - **Design:** UI/UX principles, wireframing, prototyping (Figma)
