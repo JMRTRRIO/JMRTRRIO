@@ -1,4 +1,4 @@
-# REARIO, JAY
+RRIO, JAY
 **Bachelor of Science in Computer Science, 2025**  
 
 ---
